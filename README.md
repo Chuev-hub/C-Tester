@@ -1,1 +1,1 @@
-# C-Tester
+# Tester
